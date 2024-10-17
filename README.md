@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi I am Yuhan Chen! 👋
+![7cd8e183a8153bddbacce0e75d4d0c5b](https://github.com/user-attachments/assets/918b5459-fa7a-470a-9ccd-36e8cc7e743e)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=magic-fortune&show_icons=true&theme=radical)
 
