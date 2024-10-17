@@ -1,4 +1,6 @@
 ## Hi I am Yuhan Chen! 👋
+![](https://raw.githubusercontent.com/magic-fortune/magic-fortune/main/assets/github-contribution-grid-snake.svg)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=magic-fortune&show_icons=true&theme=radical)
 
