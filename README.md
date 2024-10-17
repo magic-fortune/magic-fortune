@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuhan Chen!</h1>
 
 ![暗色](https://raw.githubusercontent.com/magic-fortune/magic-fortune/output/github-contribution-grid-snake-dark.svg)
-![亮色](https://raw.githubusercontent.com/magic-fortune/magic-fortune/output/github-contribution-grid-snake.svg)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
