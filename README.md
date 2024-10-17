@@ -1,4 +1,9 @@
 ## Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=magic-fortune)](https://github.com/magic-fortune/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=magic-fortune&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=magic-fortune&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=magic-fortune&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=magic-fortune&show_icons=true&theme=radical)
 
 <!--
 **magic-fortune/magic-fortune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
